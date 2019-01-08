@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/Bot.jar  Bot $PORT
+worker: java -jar target/java-telegram-bot-heroku-starter.jar com.example.Bot
