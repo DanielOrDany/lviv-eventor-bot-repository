@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Bot" />
         <module name="EventorTelegramBot" />
+        <module name="lviv-eventor-bot-repository" />
       </profile>
     </annotationProcessing>
   </component>

@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS -cp target/Bot.jar  Bot $PORT
