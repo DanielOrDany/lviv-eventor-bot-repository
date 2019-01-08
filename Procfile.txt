@@ -1,1 +1,1 @@
-worker: java -jar target/Bot.jar com.example.Bot
+web: java -jar target/Bot.jar
