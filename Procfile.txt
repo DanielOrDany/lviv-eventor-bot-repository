@@ -1,1 +1,1 @@
-worker: java -jar target/java-telegram-bot-heroku-starter.jar com.example.Bot
+worker: java -jar target/Bot.jar com.example.Bot
